@@ -38,8 +38,16 @@ h2 {
     font-size: 1.5em;
     border-bottom: 2px solid #0056b3;
     padding-bottom: 5px;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 1.2em;
+    border-bottom: 2px solid #0056b3;
+    padding-bottom: 5px;
     margin-top: 20px;
 }
+
 
 /* Sektionen */
 .section {
