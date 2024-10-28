@@ -114,6 +114,7 @@ ul {
 
     .button:hover {
         background-color: #003366;
+        color: #fff;
     }
 
 /* Medienanfragen für bessere Darstellung auf mobilen Geräten */
