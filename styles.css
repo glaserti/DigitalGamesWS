@@ -99,6 +99,16 @@ ul {
     margin: 8px 0;
 }
 
+ol {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.section ol li {
+    margin: 8px 0;
+}
+
 /* Knopf für die Anmeldung */
 .button {
     display: inline-block;
